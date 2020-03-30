@@ -4,10 +4,13 @@ __pycache__/
 *.csv
 cortex-*
 requirements.txt
+cat_encoder.ipynb
 
 explanation/
 .azureml/
 .ipynb_checkpoints/
 
-#Models
+
+#Azure files
 *.pkl
+automated_ml_errors.log
