@@ -1,3 +1,6 @@
+__pycache__/
+.DS_store
+
 *.csv
 cortex-*
 requirements.txt
@@ -5,3 +8,6 @@ requirements.txt
 explanation/
 .azureml/
 .ipynb_checkpoints/
+
+#Models
+*.pkl
