@@ -4,7 +4,7 @@ __pycache__/
 *.csv
 cortex-*
 requirements.txt
-cat_encoder.ipynb
+cat_encoder.py
 
 explanation/
 .azureml/
